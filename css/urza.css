@@ -1,4 +1,4 @@
-.col-4-middle{
+.col-4-left{
     text-align: center;
 }
 .col-4{
@@ -11,4 +11,8 @@
 }
 .urza{
     width: 100%;
+}
+button{
+    text-align: center;
+    width: 10%;
 }
